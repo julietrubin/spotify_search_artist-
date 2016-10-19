@@ -1,0 +1,12 @@
+iframe {
+  display: none;
+}
+
+#error-message{
+  display: none;
+  color: #da2727;
+}
+
+form {
+  padding-bottom: 10px;
+}
